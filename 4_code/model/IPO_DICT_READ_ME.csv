@@ -1,0 +1,14 @@
+WHERE : ,dangjin,sinpyeong,seosan,songsan,songak
+TARGET : ,ta,ta,ta,ta,ta
+,hm,ws,hm,hm,hm
+,ws,rn,ws,ws,ws
+,rn,lp,rn,rn,rn
+,,ap,dew,,
+,,,sp,,
+,,,lp,,
+,,,ap,,
+,,,sr,,
+,,,ss,,
+,,,ground,,
+DATE : ,datetime.date(1995-03-16),,,,
+USAGE : ,"ipo_dict[('dangjin', 'ta', datetime.date(1995-03-16))]",,,,

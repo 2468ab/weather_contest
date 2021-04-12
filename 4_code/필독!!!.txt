@@ -1,0 +1,6 @@
+모든 코드 시작 부분에 아래와 같은 코드가 존재함
+
+# 사용하기 전 변경해주어야 하는 파라미터
+BASE_WORKING_DIR = "/content/gdrive/My Drive/weather_bigcontest/4_code/"
+
+이를 사용자에 맞는 4_code 폴더로 디렉토리를 설정해주어야 모든 코드가 동작함!!!
